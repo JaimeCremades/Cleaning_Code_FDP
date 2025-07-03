@@ -1,0 +1,161 @@
+Country;S&P;Moody's;DBRS;TE
+Australia;AAA;Aaa;AAA;100.0
+Canada;AAA;Aaa;AAA;100.0
+Denmark;AAA;Aaa;AAA;100.0
+Germany;AAA;Aaa;AAA;100.0
+Liechtenstein;AAA;;;100.0
+Luxembourg;AAA;Aaa;AAA;100.0
+Netherlands;AAA;Aaa;AAA;100.0
+Switzerland;AAA;Aaa;AAA;100.0
+Norway;AAA;Aaa;AAA;99.0
+Sweden;AAA;Aaa;AAA;99.0
+European Union;AA;Aaa;AAA;98.0
+Singapore;AAA;Aaa;AAA;98.0
+United States;AA+;Aa1;AAA;97.0
+Austria;AA+;Aa1;AAA;96.0
+Finland;AA+;Aa1;AA (high);96.0
+New Zealand;AA+;Aaa;;95.0
+Taiwan;AA+;Aa3;;90.0
+United Arab Emirates;AA;Aa2;;90.0
+France;AA-;Aa3;AA (high);88.0
+Hong Kong;AA+;Aa3;;88.0
+Ireland;AA;Aa3;AA;88.0
+Qatar;AA;Aa2;;88.0
+Belgium;AA;Aa3;AA;87.0
+Isle of Man;;Aa3;;87.0
+Macau;;Aa3;;87.0
+United Kingdom;AA;Aa3;AA;87.0
+South Korea;AA;Aa2;;86.0
+Cayman Islands;;Aa3;;85.0
+Czech Republic;AA-;Aa3;AA;85.0
+Kuwait;A+;A1;;81.0
+Estonia;NR;A1;AA (low);80.0
+Saudi Arabia;A+;Aa3;;80.0
+China;A+;A1;A;78.0
+Bermuda;A+;A2;A (high);77.0
+Japan;A+;A1;A (high);77.0
+Iceland;A+;A1;;76.0
+Lithuania;A;A2;A (high);76.0
+Slovenia;AA;A3;A (high);76.0
+Malta;A-;A2;A (high);75.0
+Chile;A;A2;;73.0
+Israel;A;Baa1;;73.0
+Slovakia;A+;A3;A;73.0
+Latvia;A;A3;A;72.0
+Poland;A-;A2;A;71.0
+Portugal;A;A3;A (high);71.0
+Spain;A;Baa1;A (high);71.0
+Croatia;A-;A3;A;70.0
+Andorra;A-;Baa1;;68.0
+Malaysia;A-;A3;;68.0
+Botswana;BBB+;A3;;67.0
+Cyprus;A-;A3;A (low);67.0
+Thailand;BBB+;Baa1;;65.0
+Italy;BBB+;Baa3;BBB (high);63.0
+Bulgaria;BBB;Baa1;BBB (high);61.0
+Philippines;BBB+;Baa2;;61.0
+Uruguay;BBB+;Baa1;BBB;61.0
+Indonesia;BBB;Baa2;;60.0
+Peru;BBB-;Baa1;;60.0
+Hungary;BBB-;Baa2;BBB;58.0
+Kazakhstan;BBB-;Baa1;;58.0
+Mexico;BBB;Baa2;BBB;58.0
+Aruba;BBB+;;;57.0
+Greece;BBB;Baa3;BBB;56.0
+India;BBB-;Baa3;BBB;56.0
+Colombia;BB;Baa3;BBB (low);55.0
+Mauritius;BBB-;Baa3;;55.0
+Montserrat;BBB-;;;55.0
+Romania;BBB-;Baa3;;55.0
+Panama;BBB-;Baa3;;53.0
+San Marino;BBB-;;BBB (low);52.0
+Oman;BBB-;Ba1;;51.0
+Paraguay;BB+;Baa3;;51.0
+Azerbaijan;BB+;Ba1;;50.0
+Morocco;BB+;Ba1;;50.0
+Trinidad and Tobago;BBB-;Ba2;;50.0
+Serbia;BBB-;Ba2;;48.0
+Brazil;BB;Ba1;BB;46.0
+Guatemala;BB+;Ba1;;46.0
+Vietnam;BB+;Ba2;;46.0
+Georgia;BB;Ba2;;45.0
+Macedonia;BB-;;;45.0
+Costa Rica;BB-;Ba3;;41.0
+Dominican Republic;BB;Ba3;;41.0
+Ivory Coast;BB;Ba2;;41.0
+South Africa;BB-;Ba2;;41.0
+Albania;BB;Ba3;;40.0
+Seychelles;;;;40.0
+Uzbekistan;BB-;Ba3;;40.0
+Armenia;BB-;Ba3;;38.0
+Jamaica;BB-;B1;;38.0
+Jordan;BB-;Ba3;;38.0
+Honduras;BB-;B1;;37.0
+Namibia;;B1;;37.0
+Benin;BB-;B1;;36.0
+Turkey;BB-;B1;BB (high);36.0
+Bahamas;B+;B1;;35.0
+Bangladesh;B+;B2;;35.0
+Fiji;B+;B1;;35.0
+Montenegro;B+;Ba3;;35.0
+Turkmenistan;;;;35.0
+Bahrain;B+;B2;;33.0
+Rwanda;B+;B2;;33.0
+Tanzania;B1;;;32.0
+Mongolia;B+;B2;;31.0
+Barbados;B;B2;;30.0
+Cambodia;;B2;;30.0
+Kyrgyzstan;B+;B3;;30.0
+Lesotho;;;;30.0
+Nicaragua;B+;B2;;30.0
+Senegal;B;B3;;30.0
+Zambia;SD;Caa2;;30.0
+Uganda;B-;B3;;28.0
+Bosnia and Herzegovina;B+;B3;;27.0
+Cape Verde;B;;;27.0
+Papua New Guinea;B-;B2;;27.0
+Tajikistan;B;B3;;27.0
+Togo;B+;B3;;27.0
+Angola;B-;B3;;25.0
+Chad;B-;;;25.0
+Egypt;B-;Caa1;;25.0
+Madagascar;B-;;;25.0
+Moldova;;B3;;25.0
+Nigeria;B-;B3;;25.0
+Solomon Islands;;Caa1;;25.0
+St Vincent and the Grenadines;;B3;;25.0
+Swaziland;;B2;;25.0
+Cameroon;B-;Caa1;;23.0
+Gabon;;Caa2;;23.0
+Iraq;B-;Caa1;;23.0
+Kenya;B-;Caa1;;23.0
+Congo;B-;B3;;22.0
+Maldives;;Caa2;;22.0
+El Salvador;B-;Caa1;;21.0
+Tunisia;;Caa1;;21.0
+Belize;B-;Caa1;;20.0
+Burkina Faso;CCC+;;;20.0
+Ecuador;B-;Caa3;;20.0
+Ghana;CCC+;Caa2;;18.0
+Mozambique;CCC+;Caa2;;18.0
+Pakistan;CCC+;Caa2;;18.0
+Republic of the Congo;CCC+;Caa2;;18.0
+Suriname;CCC+;Caa1;;16.0
+Argentina;CCC;Caa3;B (low);15.0
+Bolivia;CCC-;Ca;;15.0
+Ethiopia;SD;Caa3;;15.0
+Laos;;Caa3;;15.0
+Mali;;Caa2;;15.0
+Niger;;Caa3;;15.0
+Russia;NR;NR;;14.0
+Belarus;NR;C;;11.0
+Sri Lanka;SD;Caa1;;11.0
+Ukraine;SD;Ca;;11.0
+Venezuela;;C;;11.0
+Lebanon;D;C;;8.0
+Cuba;;;;5.0
+Puerto Rico;D;;;0.0
+Grenada;SD;;;
+Kosovo;;;;
+Nepal;;;;
+
